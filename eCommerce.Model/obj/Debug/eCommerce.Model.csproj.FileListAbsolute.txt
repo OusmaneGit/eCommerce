@@ -1,0 +1,5 @@
+H:\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Model.dll
+H:\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Model.pdb
+H:\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.csprojResolveAssemblyReference.cache
+H:\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.dll
+H:\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.pdb
